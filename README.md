@@ -150,7 +150,7 @@ Created by Aina-lluna as a learning exercise in AI agent architectures.
 
 **Background**: AI Generative Lead exploring practical implications of different agent paradigms for business applications.
 
-**Contact**: [[Your LinkedIn]](https://www.linkedin.com/in/ainataylor/) 
+**Contact**: [[mi LinkedIn]](https://www.linkedin.com/in/ainataylor/) 
 
 ---
 
