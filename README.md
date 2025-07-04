@@ -146,11 +146,11 @@ MIT License - Feel free to use, modify, and share.
 
 ## 🙋‍♀️ About
 
-Created by [Your Name] as a learning exercise in AI agent architectures. 
+Created by Aina-lluna as a learning exercise in AI agent architectures. 
 
 **Background**: AI Generative Lead exploring practical implications of different agent paradigms for business applications.
 
-**Contact**: [Your LinkedIn] | [Your Email]
+**Contact**: [[Your LinkedIn]](https://www.linkedin.com/in/ainataylor/) 
 
 ---
 
